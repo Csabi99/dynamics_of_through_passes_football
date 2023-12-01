@@ -1,2 +1,5 @@
-# dynamics_of_through_passes_football
- Thesis task
+# Dynamics of through passes in football - thesis task
+Abstract
+Data analytics has witnessed a surge in tools and methodologies, extending its influence across various sectors, including the realm of sports. Football, as one of the most prominent sports worldwide, has not been exempt from this trend. The integration of this innovative approach represents a major breakthrough across various facets of football including scouting, injury prevention or performance measurement. Moreover, it provides an opportunity to understand the game better and recognise certain situations to for example help decision-making while developing the tactics.
+Within the context of football, scoring a goal is the ultimate objective, and key passes, particularly line breaking and through passes during continuous play, play a pivotal role in achieving this objective. These types of passes are infrequent occurrences during a match, similar to goals themselves. This thesis endeavours to establish robust techniques for identifying such key passes based on spatiotemporal data and attempts to do the same based on event data. The findings underscore that these passes cannot be predicted in advance from positional data, and solid selection can be performed only after seeing how the event unfolds. Additionally, it is investigated how the selected passes contribute to goalscoring and in what extent they fail because of offsides.
+
